@@ -31,6 +31,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
