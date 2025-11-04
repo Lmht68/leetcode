@@ -28,6 +28,7 @@
 | [0001-two-sum](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0049-group-anagrams) |
+| [0074-search-a-2d-matrix](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
@@ -41,6 +42,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
 ## Greedy
@@ -56,4 +58,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
