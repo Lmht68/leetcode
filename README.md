@@ -9,6 +9,7 @@
 | [0049-group-anagrams](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
 ## String
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0011-container-with-most-water](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,4 +74,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
