@@ -1,7 +1,7 @@
 class Solution {
 public:
     int minSubArrayLen(int target, vector<int>& nums) {
-        int min_length = numeric_limits<int>::max();
+        int min_length = INT_MAX;
         int left = 0;
         int curr_sum = 0;
 
@@ -18,6 +18,6 @@ public:
             }
         }
 
-        return min_length != numeric_limits<int>::max() ? min_length : 0;        
+        return min_length != INT_MAX ? min_length : 0;        
     }
 };
