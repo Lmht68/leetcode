@@ -98,4 +98,20 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
