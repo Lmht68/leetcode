@@ -41,6 +41,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
+| [1046-last-stone-weight](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1046-last-stone-weight) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +138,8 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0078-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
