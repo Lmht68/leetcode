@@ -25,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +43,7 @@
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
 | [1046-last-stone-weight](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1046-last-stone-weight) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 | [0141-linked-list-cycle](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +66,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0011-container-with-most-water) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Stack
 |  |
 | ------- |
