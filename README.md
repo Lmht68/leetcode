@@ -26,6 +26,7 @@
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
 | [1046-last-stone-weight](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1046-last-stone-weight) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
 | ------- |
