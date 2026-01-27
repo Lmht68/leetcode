@@ -151,4 +151,13 @@
 |  |
 | ------- |
 | [1046-last-stone-weight](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1046-last-stone-weight) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
