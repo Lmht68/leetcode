@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
+| [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## String
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0125-valid-palindrome](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
+| [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Sorting
 |  |
 | ------- |
@@ -160,4 +162,12 @@
 |  |
 | ------- |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->
