@@ -12,6 +12,7 @@
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
 | [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [3714-longest-balanced-substring-ii](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Tree
 |  |
 | ------- |
