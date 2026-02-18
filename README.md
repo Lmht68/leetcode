@@ -152,6 +152,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0078-subsets) |
+| [0693-binary-number-with-alternating-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
