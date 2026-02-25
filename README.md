@@ -30,6 +30,7 @@
 | [0217-contains-duplicate](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [1200-minimum-absolute-difference](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Array
@@ -50,6 +51,7 @@
 | [0792-binary-search](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0792-binary-search) |
 | [1046-last-stone-weight](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Two Pointers
@@ -157,6 +159,7 @@
 | [0078-subsets](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0078-subsets) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0868-binary-gap) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 ## Counting
 |  |
 | ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
