@@ -21,6 +21,7 @@
 | [0125-valid-palindrome](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0242-valid-anagram) |
 | [0567-permutation-in-string](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0567-permutation-in-string) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3714-longest-balanced-substring-ii) |
 ## Sorting
@@ -160,6 +161,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0868-binary-gap](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/0868-binary-gap) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -182,4 +184,8 @@
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/3713-longest-balanced-substring-i) |
+## Simulation
+|  |
+| ------- |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/ThinhLe881/https-github.com-ThinhLe881-Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 <!---LeetCode Topics End-->
